@@ -62,8 +62,8 @@ const Footer = () => (
       <div className='order-4 flex text-center lg:text-left flex-col'>
         <h1 className='text-white font-semibold text-[18px]'>LEGAL</h1>
         <div className='font-semibold'>
-          <Link to="/terms" className='text-[#D4D4D4] block hover:underline'>Terms</Link>
-          <Link to="/privacy" className='text-[#D4D4D4] block hover:underline'>Privacy</Link>
+          <Link  className='text-[#D4D4D4] block hover:underline'>Terms</Link>
+          <Link className='text-[#D4D4D4] block hover:underline'>Privacy</Link>
         </div>
       </div>
 
