@@ -79,9 +79,19 @@ function StatsCounter() {
                 </div>
             </div>
             
-            <Link to={'https://www.designrush.com/'} target="blank" className="flex items-center justify-center md:ml-10 md:mt-0 mt-15">
-                <img src={img} alt="Logo" className="md:h-full md:w-[20rem] w-[60%] rounded-xl hover:scale-110 transition-all duration-500"/>
-            </Link>
+            <Link
+  to={'https://www.designrush.com/'}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center justify-center md:ml-10 md:mt-0 mt-15"
+>
+  <img
+    src={img}
+    alt="VaishaliTech Featured on the DesignRush list of top Digital Marketing Companies"
+    className="md:h-full md:w-[20rem] w-[60%] rounded-xl hover:scale-110 transition-all duration-500"
+  />
+</Link>
+
         </section>
     );
 }
