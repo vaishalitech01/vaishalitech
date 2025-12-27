@@ -6,7 +6,7 @@ const connectDB = require('./config/db');
 const contactRoutes = require('./routes/contactRoutes');
 
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 5001;
 
 // Connect to the database
 connectDB();
