@@ -61,7 +61,7 @@ const AboutUs = () => {
 </Link>
         </section>
 
-        <section className='w-full md:h-[80rem] border-white-2 px-6 py-10 flex justify-center items-center m-auto bg-[linear-gradient(180deg,rgba(0,20,52,1)_55%,rgba(0,0,0,1)_100%)]'>
+        {/* <section className='w-full md:h-[80rem] border-white-2 px-6 py-10 flex justify-center items-center m-auto bg-[linear-gradient(180deg,rgba(0,20,52,1)_55%,rgba(0,0,0,1)_100%)]'>
 
           <div className='md:w-[44rem] flex flex-col m-auto justify-center items-center'>
             <div className='md:h-[36.8rem] h-[22rem] md:w-[31.5rem] w-[17rem] bg-[linear-gradient(180deg,rgba(18,23,31,1)_78%,rgba(45,54,70,1)_100%)] rounded-4xl flex flex-col justify-center items-center transition-transform duration-500 transform hover:rotate-10'>
@@ -79,7 +79,7 @@ const AboutUs = () => {
 
             <p className='md:text-2xl text-[#767A81] text-center font-extraligh mt-10'>-Abhishek Kumar, Founder and CEO, Vaishalitech.</p>
           </div>
-        </section>
+        </section> */}
 
       </section>
 
