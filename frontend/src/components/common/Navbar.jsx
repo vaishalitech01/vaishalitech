@@ -103,7 +103,7 @@ const Navbar = () => {
         </AnimatePresence>
       </li></Link>
 
-      <li className="hover:text-red-800 py-2"><Link to="/about-us">About Us</Link></li>
+      {/* <li className="hover:text-red-800 py-2"><Link to="/about-us">About Us</Link></li> */}
         <li className="hover:text-red-800 py-2"><Link to="/portfolio">Portfolio</Link></li>
 
       {/* <li><Link to="/contact-us"  className="bg-[#000E26] text-white px-5 py-2 rounded-lg block">Contact Us</Link></li> */}
