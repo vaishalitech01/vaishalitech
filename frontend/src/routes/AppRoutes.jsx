@@ -20,7 +20,7 @@ const AppRoutes = () => {
         <Route path="/web-design" element={<WebDesign />} />
         <Route path="/ui-ux" element={<UIUX />} />
         <Route path="/digital-marketing" element={<DigitalMarketing />} />
-        <Route path="/about-us" element={<AboutUs />} />
+        {/* <Route path="/about-us" element={<AboutUs />} /> */}
          <Route path="/portfolio" element={<Portfolio/>} />
         <Route path="/contact-us" element={<ContactUs />} />
        
