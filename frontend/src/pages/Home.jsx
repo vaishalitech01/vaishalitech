@@ -15,7 +15,7 @@ const Home = () => (
     <OnlinePresence /> 
     <DigitalMarketing />
     <StatsCounter />
-    <AboutShort />
+    {/* <AboutShort /> */}
     <ContactUs />
     <WhatsAppButton /> {/* 🟢 Add here */}
   </div>
